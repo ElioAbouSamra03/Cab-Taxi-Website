@@ -1,5 +1,0 @@
-CabTaxi is a full stack taxi booking web application developed to simulate a modern ride hailing platform, built for a company based in Denmark. The system provides users with a clean and intuitive interface to explore taxi services, view available vehicles with detailed specifications, and interact with booking features through a responsive and structured design. Developed using HTML, CSS, Bootstrap, JavaScript, and PHP, the platform combines modern front end layout with server side functionality to deliver a dynamic and scalable web experience.
-
-The application focuses on strong UI UX principles, clear navigation, and modular architecture, including dedicated pages for services, car listings, customer testimonials, authentication, and contact functionality. PHP is used to support backend processes and to prepare the system for future enhancements such as user login systems, booking management, and database integration. CabTaxi reflects real world transportation workflows and demonstrates practical full stack development, structured project organization, and scalable web design principles.
-
-Signed by Elio.
